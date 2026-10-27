@@ -1,0 +1,18 @@
+# SolidWorks temporary and backup files
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+*.bak
+
+# Windows thumbnail and system caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Editor / IDE settings
+.vscode/
+.idea/
